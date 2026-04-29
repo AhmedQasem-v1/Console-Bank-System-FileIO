@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankManager _txt/BankManager _txt.csproj" />
+  <Project Path="BankManager.Tests_txt/BankManager.Tests_txt.csproj" Id="b48c3fd3-0c9b-4c8e-8b66-aeac9c4da71a" />
+</Solution>
